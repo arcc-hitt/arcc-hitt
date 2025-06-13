@@ -140,4 +140,12 @@ Modern School, Koradi Road, Nagpur (2008 - 2018)
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcc-hitt&show_icons=true&locale=en&layout=compact" alt="arcc-hitt" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arcc-hitt&show_icons=true&locale=en" alt="arcc-hitt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arcc-hitt&" alt="arcc-hitt" /></p>
+
+---
+
 <p align="center">Thanks for visiting my profile! <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="20px"/></p>
