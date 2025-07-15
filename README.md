@@ -87,7 +87,7 @@ A Real Video-Progress Tracking Platform that merges watched intervals to calcula
 * **Highlights**: Secure auth, interval tracking, no video skipping
 
 ---
-
+<!--
 ## 💼 Experience
 
 ### Frontend Developer Intern - MathonGo (Jun 2024 - Aug 2024)
@@ -98,7 +98,7 @@ A Real Video-Progress Tracking Platform that merges watched intervals to calcula
 * Used Git for version control and teamwork.
 
 ---
-
+-->
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech), Computer Science & Engineering**
